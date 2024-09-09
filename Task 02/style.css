@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+a img{
+    height: 125px;
+    width: 150px;
+    margin: 10px 30px;
+    border: 2px solid white;
+}
+a{
+    display: flex;
+    flex-direction: column;
+}
